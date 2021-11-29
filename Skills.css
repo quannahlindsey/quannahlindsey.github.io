@@ -1,3 +1,11 @@
 ﻿body
 {
 }
+li {
+    list-style-type: none;
+}
+#nav {
+    float: left;
+    height: 500px;
+    width: 25%;
+}
